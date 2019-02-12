@@ -1,1 +1,0 @@
-Module allows to fill address information on user account and checkout forms based on entered post code.  
