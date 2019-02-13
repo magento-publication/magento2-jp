@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for Japanese Pdf Fonts.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -19,7 +19,7 @@
         "magento/framework": "*"
     },
     "suggest": {
-        "magento/module-sales": "*"
+        "magento/module-sales": "102.0.*"
     },
     "autoload": {
         "files": [
@@ -28,5 +28,6 @@
         "psr-4": {
             "MagentoJapan\\Pdf\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
