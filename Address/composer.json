@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for proper Japanese Addresses format.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -24,8 +24,8 @@
         "magento/module-reports": "*"
     },
     "suggest": {
-        "magentojapan/module-kana": "*",
-        "magentojapan/module-region": "*"
+        "magentojapan/module-kana": "1.0.*",
+        "magentojapan/module-region": "1.0.*"
     },
     "autoload": {
         "files": [
@@ -34,5 +34,6 @@
         "psr-4": {
             "MagentoJapan\\Address\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
