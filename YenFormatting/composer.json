@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for Yen formatting.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -25,5 +25,6 @@
         "psr-4": {
             "MagentoJapan\\YenFormatting\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
