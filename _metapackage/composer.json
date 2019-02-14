@@ -1,21 +1,21 @@
 {
     "name": "magentojapan/common",
-    "version": "1.0.0",
+    "version": "1.0.0-alpha",
     "description": "Magento Japanese localization meta package.",
     "type": "metapackage",
     "require": {
-        "magento/language-ja_jp": "*",
-        "magentojapan/module-default-config": "*",
-        "magentojapan/module-kana": "*",
-        "magentojapan/module-address": "*",
-        "magentojapan/module-region": "*",
-        "magentojapan/module-currency-precision": "*",
-        "magentojapan/module-yen-formatting": "*",
-        "magentojapan/module-kuromoji": "*",
-        "magentojapan/module-store-address": "*",
-        "magentojapan/module-postal-code": "*",
-        "magentojapan/module-pdf": "*",
-        "magentojapan/module-source-han-sans-japanese": "*",
-        "magentojapan/module-ipa-fonts": "*"
+        "magento/language-ja_jp": "1.0.*",
+        "magentojapan/module-default-config": "1.0.*",
+        "magentojapan/module-kana": "1.0.*",
+        "magentojapan/module-address": "1.0.*",
+        "magentojapan/module-region": "1.0.*",
+        "magentojapan/module-currency-precision": "1.0.*",
+        "magentojapan/module-yen-formatting": "1.0.*",
+        "magentojapan/module-kuromoji": "1.0.*",
+        "magentojapan/module-store-address": "1.0.*",
+        "magentojapan/module-postal-code": "1.0.*",
+        "magentojapan/module-pdf": "1.0.*",
+        "magentojapan/module-source-han-sans-japanese": "1.0.*",
+        "magentojapan/module-ipa-fonts": "1.0.*"
     }
 }
