@@ -7,18 +7,19 @@
     "description": "Source Han Sans Japanese font for PDF generation in Magento 2.",
     "require": {
         "php": "~7.1.3|~7.2.0",
-        "magento/framework": "*"
+        "magento/framework": "102.0.*"
     },
     "suggest": {
-        "magento/module-sales": "*",
-        "magento-community/module-configurable-pdf-font": "*"
+        "magento/module-sales": "102.0.*",
+        "magento-community/module-configurable-pdf-font": "1.0.*"
     },
     "autoload": {
         "files": [
-          "registration.php"
+            "registration.php"
         ],
         "psr-4": {
             "MagentoCommunity\\FontSourceHanSansJapanese\\": ""
         }
-    }
+    },
+    "version": "1.0.0-alpha"
 }

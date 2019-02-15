@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for proper Japanese Addresses format.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -16,16 +16,16 @@
     ],
     "require": {
         "php": "~7.1.3|~7.2.0",
-        "magento/framework": "*",
-        "magento/module-eav": "*",
-        "magento/module-customer": "*",
-        "magento/module-checkout": "*",
-        "magento/module-sales": "*",
-        "magento/module-reports": "*"
+        "magento/framework": "102.0.*",
+        "magento/module-eav": "102.0.*",
+        "magento/module-customer": "102.0.*",
+        "magento/module-checkout": "100.3.*",
+        "magento/module-sales": "102.0.*",
+        "magento/module-reports": "100.3.*"
     },
     "suggest": {
-        "magento-community/module-japanese-name": "*",
-        "magento-community/module-japanese-region": "*"
+        "magento-community/module-japanese-name": "1.0.*",
+        "magento-community/module-japanese-region": "1.0.*"
     },
     "autoload": {
         "files": [
@@ -34,5 +34,6 @@
         "psr-4": {
             "MagentoCommunity\\JapaneseAddress\\": ""
         }
-    }
+    },
+    "version": "1.0.0-alpha"
 }
