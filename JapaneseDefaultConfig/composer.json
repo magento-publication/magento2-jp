@@ -8,14 +8,14 @@
     "description": "Magento2 default configuration for Japanese merchants.",
     "require": {
         "php": "~7.1.3|~7.2.0",
-        "magento/framework": "*"
+        "magento/framework": "102.0.*"
     },
     "suggest": {
-        "magento/module-backend": "*",
-        "magento/module-store": "*",
+        "magento/module-backend": "101.0.*",
+        "magento/module-store": "101.0.*",
         "magento/module-dictionary": "*",
-        "magento/module-customer": "*",
-        "magento/module-user": "*"
+        "magento/module-customer": "102.0.*",
+        "magento/module-user": "101.1.*"
     },
     "autoload": {
         "files": [
@@ -24,5 +24,6 @@
         "psr-4": {
             "MagentoCommunity\\JapaneseDefaultConfig\\": ""
         }
-    }
+    },
+    "version": "1.0.0-beta"
 }
