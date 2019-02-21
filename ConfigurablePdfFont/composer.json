@@ -8,10 +8,10 @@
     "description": "Magento2 extension for Japanese Pdf Fonts.",
     "require": {
         "php": "~7.1.3|~7.2.0",
-        "magento/framework": "*"
+        "magento/framework": "102.0.*"
     },
     "suggest": {
-        "magento/module-sales": "*"
+        "magento/module-sales": "102.0.*"
     },
     "autoload": {
         "files": [
@@ -20,5 +20,6 @@
         "psr-4": {
             "MagentoCommunity\\ConfigurablePdfFont\\": ""
         }
-    }
+    },
+    "version": "1.0.0-beta"
 }
