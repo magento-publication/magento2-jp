@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for Price.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -27,5 +27,6 @@
         "psr-4": {
             "MagentoCommunity\\CurrencyPrecision\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
