@@ -11,8 +11,8 @@
         "magento/framework": "*"
     },
     "suggest": {
-        "magento/module-catalog-url-rewrite": "*",
-        "magento/module-cms-url-rewrite": "*"
+        "magento/module-catalog-url-rewrite": "100.3.*",
+        "magento/module-cms-url-rewrite": "100.3.*"
     },
     "autoload": {
         "files": [
@@ -21,5 +21,6 @@
         "psr-4": {
             "Magento\\JapaneseUrlRewrite\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }

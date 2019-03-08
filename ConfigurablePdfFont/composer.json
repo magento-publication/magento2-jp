@@ -11,7 +11,7 @@
         "magento/framework": "*"
     },
     "suggest": {
-        "magento/module-sales": "*"
+        "magento/module-sales": "102.0.*"
     },
     "autoload": {
         "files": [
@@ -20,5 +20,6 @@
         "psr-4": {
             "Magento\\ConfigurablePdfFont\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
