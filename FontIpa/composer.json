@@ -5,12 +5,12 @@
         "IPAFont-1.0"
     ],
     "description": "IPA Fonts for PDF generation in Magento 2.",
-    "authors":[
+    "authors": [
         {
-          "name": "Hirokazu Nishi",
-          "email": "nishi@veriteworks.co.jp",
-          "homepage": "https://veriteworks.co.jp/",
-          "role": "developer"
+            "name": "Hirokazu Nishi",
+            "email": "nishi@veriteworks.co.jp",
+            "homepage": "https://veriteworks.co.jp/",
+            "role": "developer"
         }
     ],
     "require": {
@@ -18,8 +18,8 @@
         "magento/framework": "*"
     },
     "suggest": {
-        "magento/module-sales": "*",
-        "community-engineering/module-configurable-pdf-font": "*"
+        "magento/module-sales": "102.0.*",
+        "community-engineering/module-configurable-pdf-font": "1.0.*"
     },
     "autoload": {
         "files": [
@@ -28,5 +28,6 @@
         "psr-4": {
             "CommunityEngineering\\FontIpa\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
