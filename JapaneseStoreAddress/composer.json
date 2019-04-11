@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for Modify Store Address.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -26,5 +26,6 @@
         "psr-4": {
             "CommunityEngineering\\JapaneseStoreAddress\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
