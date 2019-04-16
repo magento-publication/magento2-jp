@@ -6,7 +6,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for Japanese postal codes processing.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
@@ -22,8 +22,8 @@
         "magento/framework": "*"
     },
     "suggest": {
-        "magento/module-customer": "*",
-        "magento/module-checkout": "*"
+        "magento/module-customer": "102.0.*",
+        "magento/module-checkout": "100.3.*"
     },
     "autoload": {
         "files": [
@@ -32,5 +32,6 @@
         "psr-4": {
             "CommunityEngineering\\JapanesePostalCode\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }

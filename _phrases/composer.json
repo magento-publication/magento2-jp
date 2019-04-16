@@ -14,7 +14,8 @@
     },
     "autoload": {
         "files": [
-          "registration.php"
+            "registration.php"
         ]
-    }
+    },
+    "version": "1.0.0"
 }
