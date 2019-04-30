@@ -7,7 +7,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for Japanese names Kana.",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
