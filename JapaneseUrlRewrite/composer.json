@@ -12,8 +12,8 @@
         "magento/framework": "^102.0.0"
     },
     "suggest": {
-        "magento/module-catalog-url-rewrite": "^100.3.0",
-        "magento/module-cms-url-rewrite": "^100.3.0"
+        "magento/module-catalog-url-rewrite": "100.3.*",
+        "magento/module-cms-url-rewrite": "100.3.*"
     },
     "autoload": {
         "files": [
