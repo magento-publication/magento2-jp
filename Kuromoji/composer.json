@@ -7,7 +7,7 @@
         "AFL-3.0"
     ],
     "description": "Magento2 extension for adding Kuromoji an Elasticsearch tokenizer .",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",
