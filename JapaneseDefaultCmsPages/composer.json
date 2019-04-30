@@ -13,7 +13,7 @@
         "magento/module-cms": "^103.0.0"
     },
     "suggest": {
-        "community-engineering/module-japanese-default-config": "^1.0.0"
+        "community-engineering/module-japanese-default-config": "1.0.*"
     },
     "autoload": {
         "files": [
