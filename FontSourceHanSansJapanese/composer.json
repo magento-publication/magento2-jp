@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/module-font-source-han-sans-japanese",
-    "version": "1.0.0",
+    "version": "2.0.0-dev",
     "type": "magento2-module",
     "license": [
         "OFL-1.1"
@@ -11,12 +11,12 @@
         "magento/framework": "^102.0.0"
     },
     "suggest": {
-        "magento/module-sales": "^102.0.0",
-        "community-engineering/module-configurable-pdf-font": "^1.0.0"
+        "magento/module-sales": "102.0.*",
+        "community-engineering/module-configurable-pdf-font": "2.0.*"
     },
     "autoload": {
         "files": [
-          "registration.php"
+            "registration.php"
         ],
         "psr-4": {
             "CommunityEngineering\\FontSourceHanSansJapanese\\": ""

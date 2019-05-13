@@ -1,13 +1,13 @@
 {
     "name": "community-engineering/module-kuromoji",
-    "version": "1.0.0",
+    "version": "2.0.0-dev",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
     ],
     "description": "Magento2 extension for adding Kuromoji an Elasticsearch tokenizer .",
-    "authors":[
+    "authors": [
         {
             "name": "Hirokazu Nishi",
             "email": "nishi@veriteworks.co.jp",

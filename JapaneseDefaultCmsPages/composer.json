@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/module-japanese-default-cms-pages",
-    "version": "1.0.0",
+    "version": "2.0.0-dev",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
@@ -13,7 +13,7 @@
         "magento/module-cms": "^103.0.0"
     },
     "suggest": {
-        "community-engineering/module-japanese-default-config": "^1.0.0"
+        "community-engineering/module-japanese-default-config": "2.0.*"
     },
     "autoload": {
         "files": [

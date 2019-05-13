@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-ja_jp",
-    "version": "1.0.0",
+    "version": "2.0.0-dev",
     "type": "magento2-language",
     "description": "Japan (Japanese) language",
     "license": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "files": [
-          "registration.php"
+            "registration.php"
         ]
     }
 }

@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/module-japanese-url-rewrite",
-    "version": "1.0.0",
+    "version": "2.0.0-dev",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
@@ -12,8 +12,8 @@
         "magento/framework": "^102.0.0"
     },
     "suggest": {
-        "magento/module-catalog-url-rewrite": "^100.3.0",
-        "magento/module-cms-url-rewrite": "^100.3.0"
+        "magento/module-catalog-url-rewrite": "100.3.*",
+        "magento/module-cms-url-rewrite": "100.3.*"
     },
     "autoload": {
         "files": [
